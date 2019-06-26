@@ -1,0 +1,15 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F1825 -DL -O11111114 -fo8 -N"D:\Dropbox\Final Code\finalcode.mcppi" -SP"D:\MikroC Pro 2012 [5.61]\New folder\mikroC PRO for PIC\defs\" -SP"D:\MikroC Pro 2012 [5.61]\New folder\mikroC PRO for PIC\Uses\P16_Enh\" -SP"D:\Dropbox\Final Code\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16_Enh\" "MyProject.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_CType.mcl" "__Lib_CString.mcl" "__Lib_CStdlib.mcl" "__Lib_CMath.mcl" "__Lib_MemManager.mcl" "__Lib_Conversions.mcl" "__Lib_Sprinti.mcl" "__Lib_Sprintl.mcl" "__Lib_Time.mcl" "__Lib_Trigonometry.mcl" "__Lib_Button.mcl" "__Lib_Manchester.mcl" "__Lib_OneWire.mcl" "__Lib_PS2.mcl" "__Lib_Sound.mcl" "__Lib_SoftI2C.mcl" "__Lib_SoftSPI.mcl" "__Lib_SoftUART.mcl" "__Lib_ADC.mcl" "__Lib_EEPROM.mcl" "__Lib_FLASH_rwe.mcl" "__Lib_I2C_c01.mcl" "__Lib_PWM_c53a2c1.mcl" "__Lib_SPI_c012.mcl" "__Lib_UART_c45.mcl" "__Lib_PortExpander.mcl" "__Lib_CANSPI.mcl" "__Lib_GlcdFonts.mcl" "__Lib_LcdConsts.mcl" "__Lib_Lcd.mcl" "__Lib_RS485.mcl" "__Lib_SPIGlcd.mcl" "__Lib_SPILcd.mcl" "__Lib_SPILcd8.mcl" "__Lib_SPIT6963C.mcl" "__Lib_EthEnc28j60.mcl" "__Lib_EthEnc24j600.mcl"	 
+warning: 0	1501	Specified search path does not exist: 'C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\defs'	 
+warning: 0	1501	Specified search path does not exist: 'C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16_Enh'	 
+hint: 0	1139	Available RAM: 848 [bytes], Available ROM: 8192 [bytes]	 
+diagnostics: 0	126	All files Preprocessed in 172 ms	 
+diagnostics: 0	122	Compilation Started	MyProject.c
+warning: 25	1509	Generated baud rate is 117647 bps (error = 2.12 percent)	MyProject.c
+diagnostics: 297	123	Compiled Successfully	MyProject.c
+diagnostics: 0	127	All files Compiled in 140 ms	 
+hint: 0	1144	Used RAM (bytes): 165 (19%)  Free RAM (bytes): 683 (81%)	Used RAM (bytes): 165 (19%)  Free RAM (bytes): 683 (81%)
+hint: 0	1144	Used ROM (program words): 2055 (25%)  Free ROM (program words): 6137 (75%)	Used ROM (program words): 2055 (25%)  Free ROM (program words): 6137 (75%)
+diagnostics: 0	125	Project Linked Successfully	finalcode.mcppi
+diagnostics: 0	128	Linked in 235 ms	 
+diagnostics: 0	129	Project 'finalcode.mcppi' completed: 860 ms	 
+diagnostics: 0	103	Finished successfully: 28 May 2016, 22:07:40	finalcode.mcppi

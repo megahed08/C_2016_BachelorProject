@@ -1,0 +1,2 @@
+This Repository contains the C code for the monitoring_bracelet of my bachelor project 2016.
+that code was burned on the microcontroller on the board and it has functioned well.
